@@ -1,6 +1,6 @@
 /**
-*	@author
-*	@date 
+*	@author Jake Wagner
+*	@date 2/8/2021
 *	@brief A header file for templated Node class
 */
 
