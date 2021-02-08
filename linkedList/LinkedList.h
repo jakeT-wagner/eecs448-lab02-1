@@ -34,7 +34,7 @@ class LinkedList
 
 	/** @pre None.
 	*   @post None.
-	*   @return inthe number of elements in the list.
+	*   @return in the number of elements in the list.
 	*/	
 	int size() const;
 
