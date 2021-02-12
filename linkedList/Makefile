@@ -13,7 +13,7 @@ prog: main.o Test.o Test_LinkedList.o
 
 
 main.o: main.cpp LinkedList.h Node.h Test_LinkedList.h
-	g++ -g -Wall -std=c++11 -c main.cpp
+	g++ -g -Wall -std=c++11 -c main.cpp 
 
 
 Test_LinkedList.o: Test_LinkedList.h Test_LinkedList.cpp Test.h
